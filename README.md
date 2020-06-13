@@ -1,3 +1,4 @@
 # Recycled digital clock
-This project was born because I wanted to repair a broken digital clock that I had but the custom IC that was used for the logic and control was hard to find so I decided to make all the electronics again using an arduino pro micro.
-The printed piece where made in order to help keep the new boards in place and may not be useful when using a different brand of clock, however I noticed the this type of displays are widely ussedd across difference brands. 
+This project was born because I wanted to repair a broken digital clock that I had but the custom IC that was used for the logic and control was hard to find so I decided to make all the electronics again using an arduino pro micro.  
+The printed pieces where made in order to help keep the new boards in place and may not be useful when using a different brand of clock, however I noticed the this type of displays are widely used across difference brands.  
+This first version of the project does not use the buttons or the speaker of the clock, the current time should be configured while programming the arduino.
